@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hello, I'm Wiam. 👋
 
-<!--
-**essawiam/essawiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my projects using Flutter,
+- 👯 I’m looking to collaborate on an open-source project that is related to flutter.
+- 💬 Ask me about anything you want.
+- 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
+- 😄 Pronouns: He.
+- ⚡ Fun fact:  I speak 2 languages ( English, Arabic).
 
-Here are some ideas to get you started:
+### Mobile Development Skills:
+ *  Dart, Flutter, BLoC, REST API, Riverpod.
+ *  MVVM, Retrofit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Tools:
+ * Git, GitHub
+ * Codemagic, Postman, Swagger.
+ 
+ ### General Conscpets:
+ * Agile, Scrum, Testing.
+ * Design Principles, Design Patterns. 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=essawiam&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=essawiam)  
+
+![GitHub metrics](https://metrics.lecoq.io/essawiam)  
+
+![Profile views](https://gpvc.arturio.dev/essawiam)  
+
+
+
