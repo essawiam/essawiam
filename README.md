@@ -1,6 +1,6 @@
 ### Hello, I'm Wiam. 👋
 
-- 🔭 I’m currently working on my projects using Flutter, JS, Python, Django, Rest Framework.
+- 🔭 I’m currently working on my projects using Flutter, Go.
 - 👯 I’m looking to collaborate on an open-source project that is related to front end side and back end side.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
@@ -10,11 +10,10 @@
 ### Client Side Skills:
  *  Dart, Flutter, BLoC, REST API, Riverpod.
  *  MVVM, Tesing, CI/CD.
- *  HTML, CSS, JS.
 
    
  ### Backend Side Skills :
- * Python, Django, API, Rest Framework.
+ * Go, API.
 
  ### Tools:
  * Git, GitHub, GitHub Actions.
