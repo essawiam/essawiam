@@ -13,7 +13,7 @@
 
    
  ### Backend Side Skills :
- * python, FastAPI.
+ * Python, FastAPI.
 
  ### Tools:
  * Git, GitHub, GitHub Actions.
