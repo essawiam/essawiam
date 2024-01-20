@@ -1,6 +1,6 @@
 ### Hello, I'm Wiam. 👋
 
-- 🔭 I’m currently working on my projects using Flutter, pyhton.
+- 🔭 I’m currently working on my projects using Flutter, python.
 - 👯 I’m looking to collaborate on an open-source project that is related to front end side and back end side.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
@@ -13,7 +13,7 @@
 
    
  ### Backend Side Skills :
- * Python, FastAPI.
+ * Python.
 
  ### Tools:
  * Git, GitHub, GitHub Actions.
